@@ -11,3 +11,7 @@ div[data-testid="stDecoration"] {
 div[data-testid="stToolbar"]  {
 display: None;
 }
+
+.viewerBadge_link__qRIco {
+display : None;
+}
